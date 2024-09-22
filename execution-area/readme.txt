@@ -1,0 +1,1 @@
+From this folder we will run terraform commands.
